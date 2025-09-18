@@ -16,7 +16,7 @@ affiliations:
     - <sup>1</sup>Kyung Hee University
     - <sup>2</sup>AI R&D Division, CJ Group
 # paper: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
-arxiv: https://arxiv.org/abs/6749943
+arxiv: https://arxiv.org/abs/2509.00385
 # video: https://www.youtube.com/results?search_query=turing+machine
 code: https://github.com/KHU-VLL/HERO-VQL
 # data: https://huggingface.co/docs/datasets
