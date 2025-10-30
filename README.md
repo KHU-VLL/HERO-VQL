@@ -5,3 +5,13 @@
 
 This repository is the official implementation of the paper **"HERO-VQL: Hierarchical, Egocentric and Robust Visual Query Localization"**, accepted as an **Oral** presentation at BMVC 2025🔥.  
 [[Project page]](https://joohyunchang.github.io/HERO-VQL/)
+
+## Citation
+```
+@inproceedings{chang2025herovql,
+  title={HERO-VQL: Hierarchical, Egocentric and Robust Visual Query Localization},
+  author={Chang, Joohyun and Hong, Soyeon and Lee, Hyogun and Ha, Seong Jong and Lee, Dongho and Kim, Seong Tae and Choi, Jinwoo},
+  booktitle={BMVC},
+  year={2025},
+}
+```
